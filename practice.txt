@@ -9,4 +9,5 @@
 
 수정사항
 
-대충돌 발생2
+
+대충돌 발생 1&2 conflict1, conflict2
